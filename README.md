@@ -1,5 +1,5 @@
 # Bus Managment
-<p align="center"><img src="/BusManagment/Output/Bus1.png" alt="Visual ICP" width=320 height=300/></p>
+<p align="center"><img src="/Output/Bus1.png" alt="Visual ICP" width=320 height=300/></p>
 <br>
 
 ## Aboute
